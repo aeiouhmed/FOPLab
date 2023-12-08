@@ -17,6 +17,8 @@ public class JavaApplication20 {
         System.out.println("Hello world");
         
         System.out.println("how do you do");
+
+        System.out.println("Im doing great");
     }
     
 }
