@@ -14,11 +14,9 @@ public class JavaApplication20 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello world");
-        
-        System.out.println("how do you do");
+        System.out.println("Hello world")
 
-        System.out.println("Im doing great");
+        
     }
     
 }
